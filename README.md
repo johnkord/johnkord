@@ -1,6 +1,7 @@
 <div>
-<img src="https://github.com/johnkord/johnkord/blob/master/my_homepage.jpg" width="400" 
-     style="float: left; margin-right: 10px;">
+     <img src="https://github.com/johnkord/johnkord/blob/master/my_homepage.jpg" width="600" 
+          style="float: left; margin-right: 10px;">
+     <i>from Paper Rad's "My Favorite Homepage" video: https://www.youtube.com/watch?v=gTxVbQeYbEY</i>
 </div>
 
 # i'm:
