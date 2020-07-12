@@ -1,0 +1,19 @@
+{
+    "DocumentIncarnation":  3,
+    "Events":  [
+                   {
+                       "EventId":  "C7061BAC-AFDC-4513-B24B-AA5F13A16123",
+                       "EventStatus":  "Started",
+                       "EventType":  "Freeze",
+                       "ResourceType":  "VirtualMachine",
+                       "Resources":  [
+                                         "WestNO_0",
+                                         "WestNO_1"
+                                     ],
+                       "NotBefore":  "",
+                       "Description":  "Virtual machine is being paused because of a memory-preserving Live Migration operation.",
+                       "EventSource":  "Platform",
+                       "DurationInSeconds":  -1
+                   }
+               ]
+}
