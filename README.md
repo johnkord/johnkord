@@ -1,8 +1,10 @@
 <div>
      <img src="https://github.com/johnkord/johnkord/blob/master/my_homepage.jpg" width="600" 
           style="float: left; margin-right: 10px;">
-     <i>from Paper Rad's "My Favorite Homepage" video: https://www.youtube.com/watch?v=gTxVbQeYbEY</i>
 </div>
+<p>
+     <i>from Paper Rad's "My Favorite Homepage" video: https://www.youtube.com/watch?v=gTxVbQeYbEY</i>
+</p>
 
 # i'm:
 - engineer
