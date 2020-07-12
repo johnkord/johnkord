@@ -1,4 +1,5 @@
 # My Homepage
+![My Homepage](my_homepage.jpg)
 i'm:
 - engineer
 - artist/musician
