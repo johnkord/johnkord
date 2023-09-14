@@ -9,9 +9,9 @@
 # i'm:
 - engineer
 - artist/musician
-- hedonistic imperative ethicist
 - colemak user
 - believer in a better reality being possible
+- vegan and a mentor of vegans (contact me if you would like to be mentored!)
 
 # Linkes 
 - E-mail: A @ B, such that A = jkordich, B = gmail.com
