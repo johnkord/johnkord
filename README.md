@@ -11,7 +11,7 @@
 - artist/musician
 - colemak user
 - believer in a better reality being possible
-- vegan and a mentor of vegans (contact me if you would like to be mentored!)
+- vegan and a mentor of vegans (contact me if you would like mentoring on any topic!)
 
 # Linkes 
 - E-mail: A @ B, such that A = jkordich, B = gmail.com
